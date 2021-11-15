@@ -1,0 +1,12 @@
+C:\Users\sprigoda\source\WebAPI2\API2.Persistence\bin\Debug\netcoreapp3.1\API2.Persistence.deps.json
+C:\Users\sprigoda\source\WebAPI2\API2.Persistence\bin\Debug\netcoreapp3.1\API2.Persistence.runtimeconfig.json
+C:\Users\sprigoda\source\WebAPI2\API2.Persistence\bin\Debug\netcoreapp3.1\API2.Persistence.runtimeconfig.dev.json
+C:\Users\sprigoda\source\WebAPI2\API2.Persistence\bin\Debug\netcoreapp3.1\API2.Persistence.dll
+C:\Users\sprigoda\source\WebAPI2\API2.Persistence\bin\Debug\netcoreapp3.1\API2.Persistence.pdb
+C:\Users\sprigoda\source\WebAPI2\API2.Persistence\obj\Debug\netcoreapp3.1\API2.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sprigoda\source\WebAPI2\API2.Persistence\obj\Debug\netcoreapp3.1\API2.Persistence.AssemblyInfoInputs.cache
+C:\Users\sprigoda\source\WebAPI2\API2.Persistence\obj\Debug\netcoreapp3.1\API2.Persistence.AssemblyInfo.cs
+C:\Users\sprigoda\source\WebAPI2\API2.Persistence\obj\Debug\netcoreapp3.1\API2.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sprigoda\source\WebAPI2\API2.Persistence\obj\Debug\netcoreapp3.1\API2.Persistence.dll
+C:\Users\sprigoda\source\WebAPI2\API2.Persistence\obj\Debug\netcoreapp3.1\API2.Persistence.pdb
+C:\Users\sprigoda\source\WebAPI2\API2.Persistence\obj\Debug\netcoreapp3.1\API2.Persistence.genruntimeconfig.cache

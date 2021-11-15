@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sprigoda\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sprigoda\\.nuget\\packages"
+    ]
+  }
+}
